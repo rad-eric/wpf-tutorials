@@ -2,8 +2,8 @@ name: "Deploy Class Commands"
 
 on:
   push:
-    tags:
-      - "class-commands/v*"
+#     tags:
+#       - "class-commands/v*"
 
 env:
   PROJECT_PATH: ClassCommands/ClassCommands.csproj
