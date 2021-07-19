@@ -2,6 +2,8 @@ name: "Deploy Class Commands"
 
 on:
   push:
+  workflow_dispatch:
+  
 #     tags:
 #       - "class-commands/v*"
 
